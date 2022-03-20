@@ -1,4 +1,4 @@
-package com.example.liveattendanceapp.views.forgotpass
+package com.example.dmiapklliveattendanceapp.views.forgotpass
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

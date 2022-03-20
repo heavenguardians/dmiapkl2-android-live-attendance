@@ -10,16 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DMIAPKLLiveAttendanceApp">
         <activity
-            android:name=".views.forgotpass.ForgotPasswordActivity"
-            android:exported="false" />
-        <activity
             android:name=".views.login.LoginActivity"
             android:exported="false" />
         <activity
             android:name=".views.splash.SplashActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".views.main.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
