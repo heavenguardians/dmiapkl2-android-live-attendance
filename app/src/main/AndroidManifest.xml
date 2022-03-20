@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DMIAPKLLiveAttendanceApp">
         <activity
+            android:name="com.example.dmiapklliveattendanceapp.views.login.LoginActivity"
+            android:exported="false" />
+        <activity
             android:name=".views.splash.SplashActivity"
             android:exported="false" />
         <activity
