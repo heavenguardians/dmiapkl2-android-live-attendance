@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Ganti YOUR_API_KEY dengan API Key kalian-->
+    <string name="google_maps_key" translatable="false">AIzaSyDK1Be_RnKTnrWMX8lBGX-Cl1CAo411gOc</string>
+</resources>
