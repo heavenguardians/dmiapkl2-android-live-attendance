@@ -3,11 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/drawable/bg_btn_logout.xml" value="0.133" />
         <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/drawable/bg_btn_primary.xml" value="0.133" />
         <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/drawable/bg_capture_photo.xml" value="0.133" />
         <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/drawable/bg_current_time_dialog.xml" value="0.133" />
         <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/drawable/bg_edit_text.xml" value="0.133" />
         <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/drawable/bg_handler_bottom_sheet.xml" value="0.133" />
+        <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/drawable/bg_profile.xml" value="0.133" />
         <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.133" />
         <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.133" />
         <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/drawable/ic_baseline_keyboard_arrow_right_24.xml" value="0.133" />
@@ -18,6 +20,7 @@
         <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/layout/bottom_sheet_attendance.xml" value="0.25" />
         <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/layout/fragment_attendance.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/layout/fragment_history.xml" value="0.25" />
+        <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/layout/fragment_profile.xml" value="0.1526268115942029" />
         <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/layout/layout_current_time_dialog.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Ahmad Solikhin/AndroidStudioProjects/DMIAPKLLiveAttendanceApp/app/src/main/res/menu/main_menu.xml" value="0.209375" />
       </map>
